@@ -58,6 +58,9 @@ fun MainScreen() {
         Button(onClick = { /* Acción */ }) {
             Text(text = "ENVIAR")
         }
+        Button(onClick = { /* Acción */ }) {
+            Text(text = "REcibir")
+        }
 
     }
 }
